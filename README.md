@@ -9,7 +9,7 @@
 
 This project explores progress toward **Sustainable Development Goal 7 (SDG 7)**: *Ensure access to affordable, reliable, sustainable and modern energy for all.*
 
-Access to electricity is foundational for development — yet over **700 million people** still live without it. Using global data, I analyzed access, inequality, and renewable progress across regions.
+Access to electricity is foundational for development yet over **700 million people** still live without it. Using global data, I analyzed access, inequality, and renewable progress across regions.
 
 ---
 
@@ -27,7 +27,7 @@ Access to electricity is foundational for development — yet over **700 million
 
 - **Sub-Saharan Africa** remains the region with the lowest electrification rates, especially in rural zones.
 - Countries like **Bangladesh, Kenya, and India** have made surprising gains through solar and microgrid investment.
-- Progress in **urban areas** far exceeds rural — pointing to a growing infrastructure divide.
+- Progress in **urban areas** far exceeds rural pointing to a growing infrastructure divide.
 - In some regions, renewable energy adoption is declining due to policy rollbacks or economic instability.
 
 ---
@@ -42,8 +42,6 @@ Access to electricity is foundational for development — yet over **700 million
 ---
 
 ## Visual Preview
-
-*(Insert chart/screenshot here if available — example: electricity access map or country comparison)*
 
 ---
 
