@@ -47,7 +47,7 @@ Access to electricity is foundational for development yet over **700 million peo
 
 ## File Access
 
-- `renewable_energy_analysis.xlsx` – Cleaned and transformed dataset  
+- `Renewable_Cleaned_Pbix.xlsx` – Cleaned and transformed dataset  
 - `sdg7_insights.ipynb` – Python notebook with trend charts and calculations  
 - `access_by_country.csv` – Simplified table for visualizations
 
