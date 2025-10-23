@@ -42,7 +42,7 @@ Access to electricity is foundational for development yet over **700 million peo
 ---
 
 ## Visual Preview
-![Dashboard Screenshot](DashboardScreenshot.png)
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
 ---
 
 ## File Access
